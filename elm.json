@@ -1,9 +1,9 @@
 {
     "type": "package",
-    "name": "elm/browser",
-    "summary": "Run Elm in browsers, with access to browser history for single-page apps (SPAs)",
+    "name": "elm/browser-touch",
+    "summary": "Mod adding touch events to elm/browser",
     "license": "BSD-3-Clause",
-    "version": "1.0.2",
+    "version": "1.0.0",
     "exposed-modules": [
         "Browser",
         "Browser.Dom",
